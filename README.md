@@ -89,6 +89,7 @@ All major events are recorded in `ev_simulation.log` with simulation timestamps:
 Network-wide performance statistics including total vehicles served, revenue per station, average wait time, and overall network summary.
 
 ---
+<img width="506" height="148" alt="Image" src="https://github.com/user-attachments/assets/507a66a4-5f2a-447b-8bba-b85796c5f58c" />
 <img width="494" height="166" alt="Image" src="https://github.com/user-attachments/assets/83b8d871-b85f-4c21-b68c-c4777f976cb1" />
 
 ## 🏗️ System Architecture
